@@ -15,7 +15,9 @@
 ## 3.) Install the required dependencies using 'pip -r install .\requirements.txt'
 ## 4.) Next, initialize the database by using 'python database_setup.py' in the command line.
 ##           This script sets up the database with the 'person' table.
+##           Alternativley, you may decide to run this script line by line within a python shell.
 ## 5.) Extend the database by running 'python extend_database.py' in the command line.
 ##           This script extends the database by adding the 'note' table.
+##           Alternativley, you may decide to run this script line by line within a python shell.
 ## 6.) Activate the API by running 'python app.py' in the command line.
 ## 7.) Crtl-click on the server address within the terminal, and the browser will open the 'home.html', found in the templates folder.
